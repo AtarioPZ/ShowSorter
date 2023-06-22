@@ -1,4 +1,4 @@
-﻿# ShowSorter
+﻿# Auto Sort Movie Folder
  
 A script to automatically sort movies into their own respective genre based on details pulled from OMDB. <br />
 * Configure [config.ini](https://github.com/AtarioPZ/ShowSorter/blob/main/config.ini) according to your machine needs.
